@@ -1,5 +1,5 @@
 
-# SparkEd : Empowering Learning, Unleashing Sparks
+# EdTechWeb : Empowering Learning, Unleashing Sparks
 
 SparkEd is an innovative EdTech project designed to create a dynamic and accessible platform for both educators and learners. Our aim is to provide a seamless, affordable, and diverse learning environment, where instructors can share their expertise, and students can explore a variety of courses tailored to their needs.
 ![image](https://github.com/MridulKaushik3/SparkIn/assets/123966755/58ff58aa-7db3-4479-8149-34b4cf2df380)
@@ -93,4 +93,4 @@ Join forums or discussion groups within SparkEd to connect with fellow learners 
 
 Simply [click Here](https://sparkedvamd.vercel.app/) to open the SparkEd Web App.
 
-Happy learning with SparkEd!
+Happy learning with EdTechWeb!
